@@ -1,0 +1,2 @@
+export PPLX_API_KEY=pplx-xxxxxx
+export OPENAI_API_KEY=sk-proj-yyyyyyyy
